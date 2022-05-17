@@ -1,0 +1,64 @@
+* {
+    background-color: rgb(36, 44, 40);
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+.search-bar {
+    padding: 10px;
+    color: white;
+    border-color: white;
+}
+
+.header {
+    margin-top: 100px;
+    margin-left: 500px;
+    
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.container {
+    margin-top: 20px;
+    background-color: pink;
+    width: 300px;
+    padding: 50px;
+}
+
+.name {
+    background-color: white;
+    padding: 50px;
+    width: 200px;
+}
+
+.button {
+    background-color: white;
+    width: 100px;
+    color: rgb(116, 155, 214);
+    cursor: pointer;
+    padding: 10px;
+    margin-top: 20px
+    
+}
+
+.buy {
+    background-color: rgb(116, 155, 214);
+    color: white;
+    width: 70px;
+    padding: 10px;
+    margin-top: 10px
+}
+
+footer {
+    margin-top: 100px;
+    margin-left: 800px;
+}
+
+h3 {
+    color: white;
+}
